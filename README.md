@@ -15,7 +15,7 @@
 <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fury8&show_icons=true&locale=en" alt="fury8" /></p>
 <br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+<p>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)</p>
 <br/>
 <p><img align="conter" src="https://github-readme-stats.vercel.app/api/top-langs?username=fury8&show_icons=true&locale=en&layout=compact" alt="fury8" /></p>
 
