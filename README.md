@@ -13,7 +13,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fury8&" alt="fury8" /></p>
 
-![Fury's GitHub stats](https://github-readme-stats.vercel.app/api?username=fury8&show_icons=true&theme=gruvbox)
+![Fury's GitHub stats](https://github-readme-stats.vercel.app/api?username=fury8&show_icons=true&theme=tokyonight)
 
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fury8&show_icons=true&locale=en&layout=compact" alt="fury8" /></p>
