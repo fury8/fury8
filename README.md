@@ -14,8 +14,8 @@
 <hr/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fury8&theme=tokyonight" alt="fury8" /></p>
 
-![Fury's GitHub stats](https://github-readme-stats.vercel.app/api?username=fury8&show_icons=true&theme=tokyonight)
+<center>![Fury's GitHub stats](https://github-readme-stats.vercel.app/api?username=fury8&show_icons=true&theme=tokyonight)<center/>
 
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fury8&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="fury8" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fury8&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="fury8" /></p>
 
