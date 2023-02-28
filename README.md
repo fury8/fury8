@@ -13,6 +13,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fury8&" alt="fury8" /></p>
 <br/>
+[![Fury's GitHub stats](https://github-readme-stats.vercel.app/api?username=fury8)](https://github.com/fury8/github-readme-stats)
 <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fury8&show_icons=true&locale=en" alt="fury8" /></p>
 <br/>
