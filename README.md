@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fury8&label=Profile%20views&color=0e75b6&style=flat" alt="fury8" /> </p>
 <h1 align="center">Hey, I'm Fury</h1>
 
 <h3 align="center">Languages and Tools:</h3>
