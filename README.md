@@ -11,5 +11,5 @@
 ![Fury's GitHub stats](https://github-readme-stats.vercel.app/api?username=fury8&show_icons=true&theme=tokyonight)
 
 <br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fury8&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="fury8" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=fury8&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="fury8" /></p>
 
