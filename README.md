@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+
 <h1 align="center">Hey, I'm Fury</h1>
 <h3 align="center">Just a mini developer</h3>
 
@@ -15,7 +15,7 @@
 <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fury8&show_icons=true&locale=en" alt="fury8" /></p>
 <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fury8&" alt="fury8" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 <br/>
 <p><img align="conter" src="https://github-readme-stats.vercel.app/api/top-langs?username=fury8&show_icons=true&locale=en&layout=compact" alt="fury8" /></p>
 
