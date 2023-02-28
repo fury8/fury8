@@ -7,7 +7,6 @@
 <h2 align="center">Git Stats<h2/>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fury8&theme=tokyonight" alt="fury8" /></p>
 <br/>
-<p align="center"><img alt="Fury's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fury8&show_icons=true&theme=tokyonight"/>
-<br/>
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=fury8&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="fury8" /></p>
 
